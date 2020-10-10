@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1169
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompresionHuffman", "CompresionHuffman.csproj", "{FC55DA32-604C-4A49-9DE6-6BB3FF4719A7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaDePruebasHuff", "..\ConsolaDePruebasHuff\ConsolaDePruebasHuff.csproj", "{E88DE0D9-3601-405B-AD13-537DA0A5A96A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIHuffmanCompres", "..\APIHuffmanCompres\APIHuffmanCompres.csproj", "{ADB41C0B-1735-4229-B265-EA2B38A362EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E88DE0D9-3601-405B-AD13-537DA0A5A96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E88DE0D9-3601-405B-AD13-537DA0A5A96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E88DE0D9-3601-405B-AD13-537DA0A5A96A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB41C0B-1735-4229-B265-EA2B38A362EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB41C0B-1735-4229-B265-EA2B38A362EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB41C0B-1735-4229-B265-EA2B38A362EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB41C0B-1735-4229-B265-EA2B38A362EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

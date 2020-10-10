@@ -1,0 +1,4 @@
+PRUEBA DE COMPRESS
+abcdefghijklmnñopqrstuvwxyz
+123456789
+qwertyuiop

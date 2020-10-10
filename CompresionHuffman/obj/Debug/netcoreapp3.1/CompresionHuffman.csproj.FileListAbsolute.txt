@@ -1,0 +1,9 @@
+C:\Users\HP\Source\Repos\Lab03_ED2\CompresionHuffman\bin\Debug\netcoreapp3.1\CompresionHuffman.deps.json
+C:\Users\HP\Source\Repos\Lab03_ED2\CompresionHuffman\bin\Debug\netcoreapp3.1\CompresionHuffman.dll
+C:\Users\HP\Source\Repos\Lab03_ED2\CompresionHuffman\bin\Debug\netcoreapp3.1\CompresionHuffman.pdb
+C:\Users\HP\Source\Repos\Lab03_ED2\CompresionHuffman\obj\Debug\netcoreapp3.1\CompresionHuffman.csprojAssemblyReference.cache
+C:\Users\HP\Source\Repos\Lab03_ED2\CompresionHuffman\obj\Debug\netcoreapp3.1\CompresionHuffman.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\Lab03_ED2\CompresionHuffman\obj\Debug\netcoreapp3.1\CompresionHuffman.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\Lab03_ED2\CompresionHuffman\obj\Debug\netcoreapp3.1\CompresionHuffman.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\Lab03_ED2\CompresionHuffman\obj\Debug\netcoreapp3.1\CompresionHuffman.dll
+C:\Users\HP\Source\Repos\Lab03_ED2\CompresionHuffman\obj\Debug\netcoreapp3.1\CompresionHuffman.pdb

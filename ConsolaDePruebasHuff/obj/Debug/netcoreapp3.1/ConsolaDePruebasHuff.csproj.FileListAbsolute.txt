@@ -1,0 +1,16 @@
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\bin\Debug\netcoreapp3.1\ConsolaDePruebasHuff.exe
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\bin\Debug\netcoreapp3.1\ConsolaDePruebasHuff.deps.json
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\bin\Debug\netcoreapp3.1\ConsolaDePruebasHuff.runtimeconfig.json
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\bin\Debug\netcoreapp3.1\ConsolaDePruebasHuff.runtimeconfig.dev.json
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\bin\Debug\netcoreapp3.1\ConsolaDePruebasHuff.dll
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\bin\Debug\netcoreapp3.1\ConsolaDePruebasHuff.pdb
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\bin\Debug\netcoreapp3.1\CompresionHuffman.dll
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\bin\Debug\netcoreapp3.1\CompresionHuffman.pdb
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\obj\Debug\netcoreapp3.1\ConsolaDePruebasHuff.csprojAssemblyReference.cache
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\obj\Debug\netcoreapp3.1\ConsolaDePruebasHuff.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\obj\Debug\netcoreapp3.1\ConsolaDePruebasHuff.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\obj\Debug\netcoreapp3.1\ConsolaDePruebasHuff.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\obj\Debug\netcoreapp3.1\ConsolaDePruebasHuff.csproj.CopyComplete
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\obj\Debug\netcoreapp3.1\ConsolaDePruebasHuff.dll
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\obj\Debug\netcoreapp3.1\ConsolaDePruebasHuff.pdb
+C:\Users\HP\Source\Repos\Lab03_ED2\ConsolaDePruebasHuff\obj\Debug\netcoreapp3.1\ConsolaDePruebasHuff.genruntimeconfig.cache

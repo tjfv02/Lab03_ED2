@@ -1,0 +1,5 @@
+ PruebaCompres.txt,  3.13,   0.32,  -212.68,C:\Users\HP\Source\Repos\Lab03_ED2\APIHuffmanCompres\ArchivosCompresos\Compresiones.txt
+ PruebaCompres.txt,  3.13,   0.32,  -212.68,C:\Users\HP\Source\Repos\Lab03_ED2\APIHuffmanCompres\ArchivosCompresos\Compresiones.txt
+ PruebaCompres.txt,  3.13,   0.32,  -212.68,C:\Users\HP\Source\Repos\Lab03_ED2\APIHuffmanCompres\ArchivosCompresos\Compresiones.txt
+ PruebaCompres.txt,  3.13,   0.32,  -212.68,C:\Users\HP\Source\Repos\Lab03_ED2\APIHuffmanCompres\ArchivosCompresos\Compresiones.txt
+ PruebaCompres.txt,  3.13,   0.32,  -212.68,C:\Users\HP\Source\Repos\Lab03_ED2\APIHuffmanCompres\ArchivosCompresos\Compresiones.txt

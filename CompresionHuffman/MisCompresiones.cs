@@ -53,9 +53,12 @@ namespace CompresionHuffman
             string path = nuevo.RutaO;
             using (StreamWriter sw = File.AppendText(path))
             {
-                string text =
-                    $"Nombre Original: {nuevo.nombreOriginal}, Razon de Compresion: {nuevo.razonDeCompresion}, Factor de Compresion: {nuevo.factorDeCompresion}, Porcentaje de Compresion: {nuevo.porcentajeDeCompresion}";
-                sw.WriteLine(text);
+                    string text =
+                    $" {nuevo.nombreOriginal},  {nuevo.razonDeCompresion},   {nuevo.factorDeCompresion},  {nuevo.porcentajeDeCompresion},{nuevo.RutaO}";
+                if (!text.Equals(""))
+                {
+                    sw.WriteLine(text);
+                }
             }
 
         }
