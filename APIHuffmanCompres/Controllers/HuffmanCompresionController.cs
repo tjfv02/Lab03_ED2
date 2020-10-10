@@ -46,11 +46,13 @@ namespace APIHuffmanCompres.Controllers
         [HttpGet]
         public  IEnumerable<MisCompresiones> DescargarCompresiones()
         {
+
             var memory = new MemoryStream();
             MisCompresiones xd = new MisCompresiones();
             List<MisCompresiones> ListaChida = new List<MisCompresiones>();
             string[] split;
-
+            try
+            {
             using (var stream = new StreamReader(_environment.ContentRootPath + "\\ArchivosCompresos\\" + "Compresiones.txt"))
             {
                 
@@ -71,7 +73,15 @@ namespace APIHuffmanCompres.Controllers
                 }
             }
 
-            return ListaChida;
+                return ListaChida;
+
+            }
+            catch (Exception)
+            {
+
+                return ListaChida;
+            }
+
 
 
            
